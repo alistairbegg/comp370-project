@@ -11,21 +11,28 @@ KEY_WORD = "Zohran Mamdani"
 # open previously collected articles 
 if os.path.exists("articles.json"):
     with open("articles.json", 'r', encoding='utf-8') as f:
-        article_list = json.load(f)
+        articles = json.load(f)
 else: # create empty list for articles
-    article_list = []
+    articles = []
 
 # open previously collected article IDs
 if os.path.exists("article_ids.json"):
     with open("article_ids.json", 'r', encoding='utf-8') as f:
-        id_list = json.load(f)
+        article_ids = json.load(f)
 else: # create empty list for article IDs 
-    id_list = []
+    article_ids = []
 
-page = 1
+# open saved page from previous requests
+if os.path.exists("page.json"):
+    with open("page.json", 'r', encoding='utf-8') as f:
+        last_page = json.load(f)
+else: # create last_page variable
+    last_page = 0
+
+page = last_page + 1
 requests = 0
 
-while len(article_list) < 500 and requests < 100:
+while len(articles) < 500 and requests < 100:
     params = urllib.parse.urlencode({
         'api_token': API_KEY,
         'search': KEY_WORD,
@@ -42,27 +49,38 @@ while len(article_list) < 500 and requests < 100:
     conn.request('GET', '/v1/news/all?{}'.format(params))
 
     res = conn.getresponse()
+
+    # to view status (if any errors occur)
+    print("Status:", res.status)
+
     data = res.read().decode('utf-8')
     conn.close()
 
+    if res.status != 200:
+        print("Error returned. Stopping.")
+        break
+
     response_json = json.loads(data)
 
-    articles = response_json.get("data", [])
+    new_articles = response_json.get("data", [])
     
-    for article in articles:
+    for article in new_articles:
         article_id = article.get("uuid")
-        if article_id not in id_list:
-            id_list.append(article_id)
-            article_list.append(article)
+        if article_id not in article_ids:
+            article_ids.append(article_id)
+            articles.append(article)
 
     page = page+1
     requests = requests+1
-    time.sleep(0.5)
+    time.sleep(0.3)
 
-# save articles and article ids to json files
+# save articles, article IDs, and last page to json files
 with open("articles.json", 'w', encoding = 'utf-8') as f:
-    json.dump(article_list, f, indent=2)
+    json.dump(articles, f, indent=2)
 
 with open("article_ids.json", 'w', encoding='utf-8') as f:
-    json.dump(id_list, f, indent=2)
+    json.dump(article_ids, f, indent=2)
+
+with open("page.json", 'w', encoding='utf-8') as f:
+    json.dump(page, f, indent=2)
 
