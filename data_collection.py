@@ -27,7 +27,7 @@ page = 1
 requests = 0
 domain = "theatlantic.com" 
 
-while len(articles) < 500 and requests < 7:
+while len(articles) < 500 and requests < 4:
     
     # set parameters 
     params = urllib.parse.urlencode({
