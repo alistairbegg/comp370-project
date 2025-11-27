@@ -22,22 +22,20 @@ if os.path.exists("article_ids.json"):
 else: # create empty list for article IDs 
     article_ids = []
 
-# open saved page from previous requests
-if os.path.exists("page.json"):
-    with open("page.json", 'r', encoding='utf-8') as f:
-        last_page = json.load(f)
-else: # create last_page variable
-    last_page = 0
-
-page = last_page + 1
+# set other variables 
+page = 1
 requests = 0
+domain = "theatlantic.com" 
 
-while len(articles) < 500 and requests < 100:
+while len(articles) < 500 and requests < 7:
+    
+    # set parameters 
     params = urllib.parse.urlencode({
         'api_token': API_KEY,
         'search': KEY_WORD,
         'limit': 3,
-        'locale': "us,ca,mx",
+        'locale': "us,ca",
+        'domains' : domain,
         'language': 'en',
         'page' : page,
     })
@@ -64,12 +62,14 @@ while len(articles) < 500 and requests < 100:
 
     new_articles = response_json.get("data", [])
     
+    # check if each article was collected previously  
     for article in new_articles:
-        article_id = article.get("uuid")
-        if article_id not in article_ids:
-            article_ids.append(article_id)
+        unique_id = article.get("url")
+        if unique_id not in article_ids:
+            article_ids.append(unique_id)
             articles.append(article)
 
+    # update variables 
     page = page+1
     requests = requests+1
     time.sleep(0.3)
@@ -80,7 +80,4 @@ with open("articles.json", 'w', encoding = 'utf-8') as f:
 
 with open("article_ids.json", 'w', encoding='utf-8') as f:
     json.dump(article_ids, f, indent=2)
-
-with open("page.json", 'w', encoding='utf-8') as f:
-    json.dump(page, f, indent=2)
 
