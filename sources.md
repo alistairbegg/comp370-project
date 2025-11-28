@@ -7,29 +7,23 @@ We will make 6 requests per news source, giving us approximately 18 articles fro
 LEFT
 ⦁	"nytimes.com" (20 articles)
 ⦁	"apnews.com" (17 articles)
-⦁	"ms.now"
-⦁	"vox.com"
-⦁	"newyorker.com"
-⦁	"theatlantic.com" (6 articles - need to request more)
+⦁	"vox.com" (18 articles) 
+⦁	"newyorker.com" (18 articles) 
+⦁	"theatlantic.com" (12 articles)
 
 LEAN LEFT
-⦁	"cnn.com"
-⦁	"time.com"
-⦁	"washingtonpost.com"
-⦁	"nbcnews.com"
-⦁	"politico.com"
-⦁	"usatoday.com"
+⦁	"time.com" (7 articles) 
+⦁	"washingtonpost.com" (18 articles) 
+⦁	"nbcnews.com" (18 articles) 
+⦁	"politico.com" (4 articles)
 
 CENTER
-⦁	"forbes.com"
-⦁	"bbc.com"
-⦁	"wsj.com"
-⦁	"newsweek.com"
-⦁   "newsnationnow.com"
-⦁   "thehill.com"
+⦁	"forbes.com" (18 articles) 
+⦁	"bbc.com" (1 article) 
+⦁   "thehill.com" (3 articles) 
 
 LEAN RIGHT
-⦁	"nypost.com"
+⦁	"nypost.com" (18 articles) 
 ⦁	"thefp.com"
 ⦁	"nationalreview.com"
 ⦁	"washingtontimes.com"
