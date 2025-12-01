@@ -23,17 +23,13 @@ CENTER
 ⦁   "thehill.com" (3 articles) 
 
 LEAN RIGHT
-⦁	"nypost.com" (18 articles) 
-⦁	"thefp.com"
-⦁	"nationalreview.com"
-⦁	"washingtontimes.com"
-⦁   "thedispatch.com"
-⦁   "washingtonexaminer.com"   
+⦁	"nypost.com" (18 articles)
+⦁	"nationalreview.com" (1 article) 
+⦁	"washingtontimes.com" (18 articles) 
+⦁   "thedispatch.com" (18 articles)
 
 RIGHT
-⦁	"foxnews.com"
-⦁	"theamericanconservative.com"
-⦁	"dailywire.com"
-⦁	"newsmax.com"
-⦁   "spectator.org"
-⦁   "freebeacon.com"
+⦁	"foxnews.com" (36 articles) 
+⦁   "freebeacon.com" (18 articles)
+⦁   "breitbart.com" (18 articles) 
+
