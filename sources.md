@@ -14,6 +14,7 @@ LEFT
 ⦁   "theintercept.com" (2 articles)
 ⦁   "alternet.org" (1 article)
 ⦁   "motherjones.com" (18 articles)
+⦁   "propublica.org" (2 articles) 
 
 LEAN LEFT
 ⦁	"time.com" (7 articles) 
@@ -22,7 +23,8 @@ LEAN LEFT
 ⦁	"politico.com" (4 articles)
 ⦁   "businessinsider.com" (18 articles)
 ⦁   "abcnews.go.com" (18 articles)  
-
+⦁   "cnbc.com" (18 articles)
+ 
 CENTER
 ⦁	"forbes.com" (18 articles) 
 ⦁	"bbc.com" (1 article) 
@@ -43,5 +45,5 @@ RIGHT
 ⦁   "freebeacon.com" (18 articles)
 ⦁   "breitbart.com" (18 articles) 
 ⦁   "dailycaller.com" (18 articles)
-⦁   oann.com" (18 articles) 
+⦁   "oann.com" (18 articles) 
 
