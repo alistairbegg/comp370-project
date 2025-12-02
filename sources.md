@@ -10,26 +10,38 @@ LEFT
 ⦁	"vox.com" (18 articles) 
 ⦁	"newyorker.com" (18 articles) 
 ⦁	"theatlantic.com" (12 articles)
+⦁   "slate.com" (18 articles)
+⦁   "theintercept.com" (2 articles)
+⦁   "alternet.org" (1 article)
+⦁   "motherjones.com" (18 articles)
 
 LEAN LEFT
 ⦁	"time.com" (7 articles) 
 ⦁	"washingtonpost.com" (18 articles) 
 ⦁	"nbcnews.com" (18 articles) 
 ⦁	"politico.com" (4 articles)
+⦁   "businessinsider.com" (18 articles)
+⦁   "abcnews.go.com" (18 articles)  
 
 CENTER
 ⦁	"forbes.com" (18 articles) 
 ⦁	"bbc.com" (1 article) 
-⦁   "thehill.com" (3 articles) 
-
+⦁   "thehill.com" (3 articles)
+⦁   "csmonitor.com" (1 article) 
+⦁   "reason.com" (18 articles)
+ 
 LEAN RIGHT
 ⦁	"nypost.com" (18 articles)
 ⦁	"nationalreview.com" (1 article) 
 ⦁	"washingtontimes.com" (18 articles) 
 ⦁   "thedispatch.com" (18 articles)
-
+⦁   "realclearpolitics.com" (2 articles) 
+⦁   "zerohedge.com" (36 articles)
+ 
 RIGHT
 ⦁	"foxnews.com" (36 articles) 
 ⦁   "freebeacon.com" (18 articles)
 ⦁   "breitbart.com" (18 articles) 
+⦁   "dailycaller.com" (18 articles)
+⦁   oann.com" (18 articles) 
 
