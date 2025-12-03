@@ -25,7 +25,7 @@ else: # create empty list for article IDs
 # set other variables 
 page = 1
 requests = 0
-domain = "propublica.org" 
+domain = "democracynow.org" 
 
 while len(articles) < 500 and requests < 6:
     
