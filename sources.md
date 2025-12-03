@@ -14,7 +14,8 @@ LEFT
 ⦁   "theintercept.com" (2 articles)
 ⦁   "alternet.org" (1 article)
 ⦁   "motherjones.com" (18 articles)
-⦁   "propublica.org" (2 articles) 
+⦁   "propublica.org" (2 articles)
+⦁   "democracynow.org" (18 articles) 
 
 LEAN LEFT
 ⦁	"time.com" (7 articles) 
@@ -39,6 +40,7 @@ LEAN RIGHT
 ⦁   "thedispatch.com" (18 articles)
 ⦁   "realclearpolitics.com" (2 articles) 
 ⦁   "zerohedge.com" (36 articles)
+⦁   "foxbusiness.com" (15 articles)
  
 RIGHT
 ⦁	"foxnews.com" (36 articles) 
