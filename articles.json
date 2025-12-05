@@ -8943,5 +8943,206 @@
       "politics"
     ],
     "relevance_score": 41.224228
+  },
+  {
+    "uuid": "e603b31f-7bfd-47ac-a291-6cafa1348eff",
+    "title": "Mamdani Family Values",
+    "description": "Mahmood Mamdani, Zohran\u2019s father, just published his twelfth book. The subject? Dictators, Jake Offenhartz writes.",
+    "keywords": "",
+    "snippet": "On a recent Thursday, the eve of Zohran Mamdani\u2019s first meeting with President Donald Trump, the Mayor-elect stopped by a reading at Book Culture, near Columb...",
+    "url": "https://www.newyorker.com/magazine/2025/12/08/mamdani-family-values",
+    "image_url": "https://media.newyorker.com/photos/692772d51c3e8c1d26f4db3d/16:9/w_1280,c_limit/r48175.png",
+    "language": "en",
+    "published_at": "2025-12-01T11:00:00.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "entertainment"
+    ],
+    "relevance_score": 37.301346
+  },
+  {
+    "uuid": "91be69f6-fd30-4668-ab90-62a5e6933672",
+    "title": "The Democratic Party\u2019s Identity Crisis",
+    "description": "On The Political Scene Podcast: Donald Trump\u2019s unpopularity hasn\u2019t translated into strength among the Democratic Party. Why are key blocs of voters drifting...",
+    "keywords": "democrats, democratic party, donald trump",
+    "snippet": "The Democratic strategist Lis Smith joins the guest host Clare Malone, a New Yorker staff writer, to discuss the state of the Democratic Party, and how a decade...",
+    "url": "https://www.newyorker.com/podcast/political-scene/the-democratic-partys-identity-crisis",
+    "image_url": "https://media.newyorker.com/photos/636d4ff9f99e2ac3a2919cc1/16:9/w_1280,c_limit/Announcement%20Post.png",
+    "language": "en",
+    "published_at": "2025-08-28T02:05:30.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "entertainment"
+    ],
+    "relevance_score": 22.243551
+  },
+  {
+    "uuid": "a347607b-6732-49bf-b142-844c68cc53d4",
+    "title": "Have the Democrats Figured Out How to Win Again?",
+    "description": "On The Political Scene Podcast: \u201cWe have a lot of indications over the last [few] months that the country is, for the second time, falling out of love with Do...",
+    "keywords": "donald trump, democrats, elections, republicans",
+    "snippet": "The New Yorker staff writer Benjamin Wallace-Wells joins Tyler Foggatt to discuss Democrats\u2019 sweeping victories in the first major elections of Donald Trump?...",
+    "url": "https://www.newyorker.com/podcast/political-scene/have-the-democrats-figured-out-how-to-win-again",
+    "image_url": "https://media.newyorker.com/photos/637541f2b19ab8521b9fe1c2/16:9/w_1280,c_limit/The%20Political%20Scene%20In%20Conversation.jpg",
+    "language": "en",
+    "published_at": "2025-11-06T04:00:00.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "general",
+      "entertainment"
+    ],
+    "relevance_score": 22.02473
+  },
+  {
+    "uuid": "df6dd53b-1557-46ac-a0ae-34703b80ddcd",
+    "title": "Andrew Cuomo\u2019s Long Goodbye",
+    "description": "Eric Lach on Andrew Cuomo\u2019s faltering campaign as an Independent in the 2025 New York mayoral contest, and on the last mayoral debate.",
+    "keywords": "andrew cuomo, new york city, mayors",
+    "snippet": "Andrew Cuomo likes to make a big deal about the age and inexperience of the likely next mayor of New York City, Zohran Mamdani, but the former governor himself ...",
+    "url": "https://www.newyorker.com/news/the-lede/andrew-cuomos-long-goodbye",
+    "image_url": "https://media.newyorker.com/photos/68fa1304428f8b3872645e7b/16:9/w_1280,c_limit/Lach-GettyImages-2242311979.jpg",
+    "language": "en",
+    "published_at": "2025-10-23T14:05:51.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "entertainment"
+    ],
+    "relevance_score": 21.797535
+  },
+  {
+    "uuid": "1c8c9f65-8d8c-4dc2-bea4-05218a79816b",
+    "title": "How Much More Can Federal Workers Take?",
+    "description": "On The Political Scene Podcast: What began as a budget impasse has turned into an unprecedented effort to fire federal employees and weaken agencies whose work ...",
+    "keywords": "government shutdown, federal government, donald trump",
+    "snippet": "The New Yorker staff writer E. Tammy Kim joins Tyler Foggatt to discuss how the government shutdown is affecting the federal workforce. They talk about how the ...",
+    "url": "https://www.newyorker.com/podcast/political-scene/how-much-more-can-federal-workers-take",
+    "image_url": "https://media.newyorker.com/photos/637541f2b19ab8521b9fe1c2/16:9/w_1280,c_limit/The%20Political%20Scene%20In%20Conversation.jpg",
+    "language": "en",
+    "published_at": "2025-10-15T22:00:45.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "general",
+      "entertainment"
+    ],
+    "relevance_score": 21.599756
+  },
+  {
+    "uuid": "b1269a6a-9b27-4944-b118-c4bd9f9e7b01",
+    "title": "The N.Y.C. Mayoral Election, as Processed in Therapy",
+    "description": "Before voters go to the ballot box, they\u2019re sitting on their therapist\u2019s couch\u2014where they\u2019re unpacking their Mamdani-induced fears and their Cuomo-fuell...",
+    "keywords": "politcs, election, anxiety, new yorkers",
+    "snippet": "After Zohran Mamdani won New York City\u2019s Democratic mayoral primary, in June, Governor Kathy Hochul spoke to hundreds of business leaders, telling them not to...",
+    "url": "https://www.newyorker.com/news/the-lede/political-anxiety-is-running-new-yorks-mayoral-race",
+    "image_url": "https://media.newyorker.com/photos/69095b1a618172b90160efdd/16:9/w_1280,c_limit/Avillez5.jpg",
+    "language": "en",
+    "published_at": "2025-11-04T11:00:00.000000Z",
+    "source": "newyorker.com",
+    "categories": [
+      "general",
+      "entertainment"
+    ],
+    "relevance_score": 21.19638
+  },
+  {
+    "uuid": "759755c5-35bd-4408-8921-25f4bae958e1",
+    "title": "DSA Admits Socialist Zohran Mamdani Gives Them Best Position to \u2018Seize State Power\u2019",
+    "description": "DSA is admitting that New York City mayoral candidate Assemblyman Zohran Mamdani (D) gives them the best position to \"seize state power.\"",
+    "keywords": "",
+    "snippet": "The Democratic Socialists of America (DSA) is admitting that New York City mayoral candidate Assemblyman Zohran Mamdani (D) gives them the best position to \u201cs...",
+    "url": "https://www.breitbart.com/politics/2025/08/05/dsa-admits-socialist-zohran-mamdani-gives-them-best-position-to-seize-state-power/",
+    "image_url": "https://media.breitbart.com/media/2025/08/GettyImages-2225236581-640x335.png",
+    "language": "en",
+    "published_at": "2025-08-05T18:10:13.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 44.97297
+  },
+  {
+    "uuid": "a151cf1e-f75b-4b2a-9696-a2fa085dceed",
+    "title": "Marlow: Zohran \u2018The Cuddly Communist\u2019 Mamdani Is Manufactured, Inauthentic",
+    "description": "On Wednesday's",
+    "keywords": "",
+    "snippet": "On Wednesday\u2019s \u201cAlex Marlow Show,\u201d host and Breitbart Editor-in-Chief Alex Marlow discussed Zohran Mamdani\u2019s campaign.\n\nMarlow said that his interview w...",
+    "url": "https://www.breitbart.com/clips/2025/07/02/marlow-zohran-the-cuddly-communist-mamdani-is-manufactured-inauthentic/",
+    "image_url": "https://media.breitbart.com/media/2025/06/june28-25-Democratic-mayoral-candidate-NYC-Zohran-Mamdani-ap-640x335.jpg",
+    "language": "en",
+    "published_at": "2025-07-03T04:04:02.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 44.66615
+  },
+  {
+    "uuid": "ab45e764-91fb-408e-8464-27508338cf86",
+    "title": "Zohran Mamdani Officially Wins Democrat Primary for NYC Mayor",
+    "description": "Democratic socialist Zohran Mamdani officially won the Democrat primary for New York City mayor on Tuesday after the city's Board of Elections released ranked-c...",
+    "keywords": "",
+    "snippet": "Democratic socialist Zohran Mamdani officially won the Democrat primary for New York City mayor on Tuesday after the city\u2019s Board of Elections released ranked...",
+    "url": "https://www.breitbart.com/pre-viral/2025/07/01/socialist-zohran-mamdani-officially-wins-democrat-primary-nyc-mayor-ranked-choice-vote-count/",
+    "image_url": "https://media.breitbart.com/media/2025/07/Zohran-Mamdani-640x335.jpg",
+    "language": "en",
+    "published_at": "2025-07-01T19:30:35.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 44.582237
+  },
+  {
+    "uuid": "a101d2c4-d104-4bf6-91d7-bc7d5f6cb457",
+    "title": "Survey: AOC, Zohran Mamdani Have Highest Approval Among New York Democrats",
+    "description": "Polling commissioned by a pro-Palestinian group found that New York Democrat primary voters overwhelmingly back Democrat mayoral nominee Zohran Mamdani's pro-Pa...",
+    "keywords": "",
+    "snippet": "Polling commissioned by a pro-Palestinian group found that New York Democrat primary voters overwhelmingly back Democrat mayoral nominee Zohran Mamdani\u2019s pro-...",
+    "url": "https://www.breitbart.com/politics/2025/07/29/survey-aoc-zohran-mamdani-have-highest-approval-among-new-york-democrats/",
+    "image_url": "https://media.breitbart.com/media/2025/07/GettyImages-2221383739-640x335.png",
+    "language": "en",
+    "published_at": "2025-07-29T15:07:46.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 44.447098
+  },
+  {
+    "uuid": "5281c85d-7cb7-467b-81db-258af7c9f1b4",
+    "title": "'Jew Hater': Mayoral Candidate Zohran Mamdani Heckled in Staten Island",
+    "description": "Zohran Mamdani, a far-left Democrat, was heckled while visiting a restaurant in Staten Island, where he was called a \"Jew hater.\"",
+    "keywords": "",
+    "snippet": "New York Mayoral Candidate Zohran Mamdani, a far-left Democrat, was heckled while visiting Staten Island, where he was called a \u201cJew hater\u201d for his extreme ...",
+    "url": "https://www.breitbart.com/politics/2025/08/14/nyc-socialist-mayoral-candidate-zohran-mamdani-heckled-staten-island/",
+    "image_url": "https://media.breitbart.com/media/2025/08/NYC-Democratic-mayoral-candidate-Zohran-Mamdani-ap-640x335.jpg",
+    "language": "en",
+    "published_at": "2025-08-15T00:54:30.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 44.358162
+  },
+  {
+    "uuid": "51d7d067-771c-4201-bbb0-7980c98f57b3",
+    "title": "Zohran Mamdani Echoes Gov. Hochul: Ban \u2018Assault Rifles\u2019 Nationwide",
+    "description": "Zohran Mamdan called for an \"assault weapons\" ban, saying a national ban against \"assault rifles\" is part of \"a vision of stronger gun laws.\"",
+    "keywords": "",
+    "snippet": "NYC mayoral candidate Zohran Mamdani (D) echoed Gov. Kathy Hochul\u2019s (D) calls for an \u201cassault weapons\u201d ban, saying a national ban against \u201cassault rifle...",
+    "url": "https://www.breitbart.com/2nd-amendment/2025/07/30/zohran-mamdani-echoes-gov-hochul-ban-assault-rifles-nationwide/",
+    "image_url": "https://media.breitbart.com/media/2025/07/Zohran-Mamdani-2-640x335.jpg",
+    "language": "en",
+    "published_at": "2025-07-30T21:50:09.000000Z",
+    "source": "breitbart.com",
+    "categories": [
+      "general",
+      "politics"
+    ],
+    "relevance_score": 43.975864
   }
 ]

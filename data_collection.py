@@ -25,9 +25,9 @@ else: # create empty list for article IDs
 # set other variables 
 page = 1
 requests = 0
-domain = "theblaze.com" 
+domain = "breitbart.com" 
 
-while len(articles) < 532 and requests < 6:
+while len(articles) < 545 and requests < 10:
     
     # set parameters 
     params = urllib.parse.urlencode({
