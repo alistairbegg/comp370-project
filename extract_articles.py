@@ -1,21 +1,15 @@
 import json
 import csv
 
-# Load articles from JSON file
 with open('articles.json', 'r', encoding='utf-8') as f:
     articles = json.load(f)
 
-# Extract first 200 articles
-articles_subset = articles[:200]
+articles_subset = articles
 
-# Write to CSV file
 with open('articles_extracted.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
-    
-    # Write header row
     writer.writerow(['uuid', 'title', 'description'])
     
-    # Write data rows
     for article in articles_subset:
         uuid = article.get('uuid', '')
         title = article.get('title', '')
